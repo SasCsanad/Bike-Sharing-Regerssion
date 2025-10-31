@@ -66,7 +66,7 @@ Ezt egy **egyszerű lineáris regressziós korrekcióval** (post-processing lép
 - Időbeli validáció nélkül a modell túlzottan optimistának tűnhet.
 
 ---
-## 💬 Hogyan futtasd
+## Hogyan futtasd
 
 1. Klónozd a repót:
    ```bash
