@@ -15,7 +15,7 @@ A cél: megérteni az időjárás, a naptári jellemzők és az idényhatások s
 2. **Feature Engineering**
    - Ciklikus naptári jellemzők (sin/cos hónap, nap).
    - Interakciós jellemzők az időjárási változók között.
-   - One-Hot Encoder és StandardScaler egyetlen `ColumnTransformer`-ben.
+   - One-Hot Encoder a `ColumnTransformer`-ben.
 
 3. **Baseline modell**
    - `HistGradientBoostingRegressor` (Scikit-Learn).
