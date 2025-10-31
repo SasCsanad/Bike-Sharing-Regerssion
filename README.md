@@ -39,8 +39,8 @@ A cél: megérteni az időjárás, a naptári jellemzők és az idényhatások s
 - Python 3.10+
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
-- shap (interpretálhatóság)
-- Jupyter Notebook / HTML export
+- shap
+- Jupyter Notebook
 
 ---
 
