@@ -1,6 +1,6 @@
-# Bike Sharing Demand Forecasting (Python, Scikit-Learn)
+# Kerékpárbérlés Előrejelzés (Python, Scikit-Learn)
 
-Ez a projekt egy **kerékpár-bérlés előrejelző modell** felépítését mutatja be a klasszikus *Bike Sharing Dataset* (2011–2012) adatai alapján.  
+Ez a projekt egy **kerékpárbérlés előrejelző modell** felépítését mutatja be a klasszikus *Bike Sharing Dataset* (2011–2012) adatai alapján.  
 A cél: megérteni az időjárás, a naptári jellemzők és az idényhatások szerepét a napi bérlésszámok alakulásában, és egy egyszerű, de megbízható **gépi tanulási előrejelző pipeline-t** készíteni Pythonban.
 
 ---
